@@ -1,4 +1,4 @@
-
+#git_R connection
 install.packages("usethis")
 library(usethis)
 
@@ -11,3 +11,4 @@ gitcreds_set()
 
 library(usethis)
 use_github()
+
